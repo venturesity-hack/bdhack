@@ -1,4 +1,4 @@
 bdhack
 ======
 
-Big Data Hackathon _01_02_14
+Big Data Hackathon 01 Feb 2014
